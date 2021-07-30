@@ -21,6 +21,6 @@
   <img align="right" alt="Math-image" height="128" width="128" src="https://media.discordapp.net/attachments/821065797525831691/870739645225394216/download20210605224702.png">
 </div>
  
-   ## 
+   ##  
   
  ![Snake animation](https://github.com/MatheusDsouza/MatheusDsouza/blob/output/github-contribution-grid-snake.svg)
