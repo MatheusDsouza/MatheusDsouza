@@ -1,8 +1,7 @@
-### Olá! Eu sou o Matheus Silva 👋
+### Hi! I'm Matheus Silva 👋
 
-- 🔭 Trabalho com automação de testes utilizando Ruby & Capybara
-- 🌱 Atualmente estou estudando Spring Boot and ReactJs
-- 😄 Pronouns: ele/dele
+- 🔭 I’m currently working as QA Analyst 
+- 🌱 I’m currently learning Spring Boot and ReactJs
 
 <div>
   <a href="https://github.com/MatheusDsouza">
